@@ -1,0 +1,1 @@
+/usr/bin/gcc -g  -rdynamic CMakeFiles/LLPLAB.dir/main.c.o CMakeFiles/LLPLAB.dir/code/table_operations.c.o CMakeFiles/LLPLAB.dir/code/io.c.o CMakeFiles/LLPLAB.dir/code/graph_stracture.c.o CMakeFiles/LLPLAB.dir/code/mmap_functions.c.o CMakeFiles/LLPLAB.dir/code/node_operations.c.o CMakeFiles/LLPLAB.dir/code/page_operations.c.o  -o LLPLAB 

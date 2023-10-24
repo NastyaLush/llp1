@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/graph.c
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/graph.h
+-
+
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/graph.h
+stdint.h
+-
+stdio.h
+-
+stdbool.h
+-
+
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/io_db.c
+fcntl.h
+-
+sys/mman.h
+-
+stdio.h
+-
+stdbool.h
+-
+sys/stat.h
+-
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/graph.h
+-
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/graph.c
+-
+
+/mnt/c/Users/yfcni/onedrive/LLpLab/main.c
+/mnt/c/Users/yfcni/onedrive/LLpLab/code/io_db.c
+-
+

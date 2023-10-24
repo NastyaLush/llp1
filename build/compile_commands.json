@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/main.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/main.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/main.c"
+},
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/code/table_operations.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/code/table_operations.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/code/table_operations.c"
+},
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/code/io.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/code/io.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/code/io.c"
+},
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/code/graph_stracture.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/code/graph_stracture.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/code/graph_stracture.c"
+},
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/code/mmap_functions.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/code/mmap_functions.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/code/mmap_functions.c"
+},
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/code/node_operations.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/code/node_operations.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/code/node_operations.c"
+},
+{
+  "directory": "/mnt/c/Users/yfcni/onedrive/LLpLab/build",
+  "command": "/usr/bin/gcc   -g   -o CMakeFiles/LLPLAB.dir/code/page_operations.c.o   -c /mnt/c/Users/yfcni/onedrive/LLpLab/code/page_operations.c",
+  "file": "/mnt/c/Users/yfcni/onedrive/LLpLab/code/page_operations.c"
+}
+]
